@@ -49,10 +49,10 @@ String password = "your_mysql_password";
 
 5. **Compile and Run**
 ```bash
-# Compile
+ Compile
 javac -cp "lib/mysql-connector-java.jar" src/*.java
 
-# Run
+ Run
 java -cp "src:lib/mysql-connector-java.jar" Main
 ```
 
@@ -86,13 +86,13 @@ Cosmatic-Shop/
 
 1. **Start MySQL Server**
 ```bash
-# Windows
+ Windows
 net start mysql
 
-# macOS
+ macOS
 brew services start mysql
 
-# Linux
+ Linux
 sudo systemctl start mysql
 ```
 
@@ -139,13 +139,7 @@ sudo systemctl start mysql
 5. 🔄 Create Pull Request
 
 
-## 📄 License
 
-📜 MIT License - see [LICENSE](LICENSE) file for details.
-
-- 📖 **Documentation**: [Project Wiki](https://github.com/AmashaUdugama/Cosmatic-Shop/wiki)
-
----
 
 ⭐ **Star this repo if you find it helpful!** ⭐
 
